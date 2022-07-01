@@ -2,7 +2,8 @@
     margin: 0 0;
     padding: 0 0;
 }
-body{
+
+body {
     background-color: hsl(30, 38%, 92%);
 }
 
@@ -26,13 +27,19 @@ p {
     font-size: 12px;
     font-family: "montserrat";
 }
-button{
+
+button {
     width: 100%;
     background: hsl(158, 36%, 37%);
     border-radius: 5px;
     border: none;
 }
-.attribution{
+
+.attribution a {
     font-family: 'Montserrat';
     padding-top: 5px;
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+
 }
